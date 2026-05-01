@@ -1,0 +1,53 @@
+@model UserViewModel
+
+@{
+    Layout = "_AdminLayout";
+    ViewData["Title"] = "افزودن کاربر";
+}
+
+<div class="py-5" dir="rtl">
+    <div class="row justify-content-center">
+        <div class="col-xl-6 col-lg-10">
+
+            <div class="card border">
+                <div class="card-header bg-dark text-center">
+                    <h5 class="pt-2 fw-bold" style="font-weight: 800;">ایجاد کاربر جدید</h5>
+                </div>
+
+                <div class="card-body">
+
+                    <form asp-action="AddUser" asp-controller="Admin" method="post">
+                        
+                        <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                        <div class="mb-3">
+                            <label asp-for="Email" class="form-label"></label>
+                            <input asp-for="Email" class="form-control" />
+                            <span asp-validation-for="Email" class="text-danger small"></span>
+                        </div>
+
+                        <div class="mb-4">
+                            <label asp-for="Password" class="form-label"></label>
+                            <input asp-for="Password" class="form-control" />
+                            <span asp-validation-for="Password" class="text-danger small"></span>
+                        </div>
+
+                        <div class="form-check mb-4 checkbox-wrapper">
+                            <input asp-for="IsAdmin" class="form-check-input mr-2" />
+                            <label asp-for="IsAdmin" class="form-check-label mx-3 mt-1"></label>
+                        </div>
+
+                        <button type="submit" class="btn btn-dark w-100">ایجاد کاربر</button>
+
+                    </form>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

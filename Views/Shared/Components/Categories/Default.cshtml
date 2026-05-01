@@ -1,0 +1,13 @@
+@model IEnumerable<Category>
+
+<ul class="list-group pl-1">
+
+    @foreach(var item in Model)
+    {
+        <li class="list-group-item d-flex justify-content-between align-items-center">
+            <a style="color: black; text-decoration: none;" href="Group/@item.Id">@item.Name</a>
+            <span class="badge bg-success rounded-pill text-white">@item.Products.Count</span>
+        </li>
+    }
+
+</ul>

@@ -1,0 +1,10 @@
+@model RegisterViewModel
+
+@{
+    ViewData["Title"] = "ثبت‌نام موفق";
+}
+
+<div class="alert alert-success mt-5 d-md-flex align-items-center justify-content-between">
+    <h6 class="mt-2">کاربر عزیز، ثبت‌نام شما با ایمیل <strong>@Model.Email</strong> با موفقیت انجام شد.</h6>
+    <a asp-controller="Account" asp-action="Login" class="btn btn-success btn-sm text-white">ورود به سایت</a>
+</div>

@@ -1,0 +1,32 @@
+@model Order
+
+@{
+    ViewData["Title"] = "ورود";
+}
+
+<div class="container mt-5">
+    <h5>جزئیات صورت‌حساب</h5>
+    <hr />
+    <table class="table table-bordered table-sm text-center">
+        <thead class="thead-light">
+            <tr>
+                <th>نام محصول</th>
+                <th>توضیحات محصول</th>
+                <th>تعداد</th>
+                <th>قیمت نهایی</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach(var item in Model.OrderDetails)
+            {
+                <tr>
+                    <td>@item.Product.Name</td>
+                    <td>@item.Product.Description</td>
+                    <td>@item.Count عدد</td>
+                    <td>@((item.Count * item.Price).ToString("N0")) تومان</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,40 @@
+@model IEnumerable<User>
+
+@{
+    Layout = "_AdminLayout";
+    ViewData["Title"] = "کاربران";
+}
+
+<div class="table-responsive pb-5" style="white-space: nowrap;">
+    <a asp-control="Admin" asp-action="AddUser" class="btn btn-dark mb-3" style="float: right;">افزودن کاربر</a>
+    <table class="table table-bordered table-sm text-center">
+        <thead class="thead-dark">
+            <tr>
+                <th>ایمیل</th>
+                <th>کلمه‌عبور</th>
+                <th>تاریخ ثبت‌نام</th>
+                <th>سطح دسترسی</th>
+                <th>عملیات</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach(var item in Model)
+            {
+                <tr>
+                    <td>@item.Email</td>
+                    <td>@item.Password</td>
+                    <td>@item.RegisterDate.ToShamsi()</td>
+                    <td>@(item.IsAdmin ? "ادمین" : "کاربر عادی")</td>
+                    <td>
+                        <a asp-control="Admin" asp-action="EditUser" asp-route-id="@item.Id" class="btn btn-sm btn-dark">ویرایش</a>
+                        @if (!item.IsAdmin)
+                        {
+                            <a asp-control="Admin" asp-action="DeleteUser" asp-route-id="@item.Id" class="btn btn-sm btn-danger">حذف</a>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

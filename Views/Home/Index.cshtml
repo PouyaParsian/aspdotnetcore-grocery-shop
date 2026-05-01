@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Product>
+
+@{
+    ViewData["Title"] = "محصولات";
+}
+
+<div class="container mt-5">
+
+    <div class="row">
+
+        <!-- Sidebar -->
+        <div class="col-lg-3 mb-4">
+            @await Component.InvokeAsync("Categories")
+        </div>
+
+
+        <!-- Products -->
+        <div class="col-lg-9">
+
+            <div class="row g-4">
+
+                @foreach(var item in Model)
+                {
+                    <partial name="_Product" model="item" />
+                }
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>

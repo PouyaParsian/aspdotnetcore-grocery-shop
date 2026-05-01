@@ -1,0 +1,69 @@
+@model User
+
+@{
+    ViewData["Title"] = "اطلاعات کاربری";
+}
+
+<div class="container mt-5">
+    <h5 class="mt-5">اطلاعات کاربر</h5>
+    <hr />
+    <ul class="list-group pl-1 w-100">
+
+        <li class="list-group-item d-xl-flex justify-content-between align-items-center">
+            ایمیل:
+            <br/>
+            <span>@Model.Email</span>
+        </li>
+
+        <li class="list-group-item d-xl-flex justify-content-between align-items-center">
+            کلمه‌عبور:
+            <br/>
+            <span class="mt">@Model.Password</span>
+        </li>
+
+        <li class="list-group-item d-xl-flex justify-content-between align-items-center">
+            تاریخ ثبت‌نام:
+            <br/>
+            <span>@Model.RegisterDate.ToShamsi()</span>
+        </li>
+
+        <li class="list-group-item d-xl-flex justify-content-between align-items-center">
+            سطح دسترسی:
+            <br/>
+            <span>@(Model.IsAdmin ? "ادمین" : "کاربر عادی")</span>
+        </li>
+
+    </ul>
+    <h5 class="mt-5">گزارش پرداخت‌ها</h5>
+    <hr />
+    <table class="table table-bordered table-sm text-center">
+        <thead class="thead-light">
+            <tr>
+                <th>تاریخ</th>
+                <th>وضعیت</th>
+                <th>مبلغ کل</th>
+                <th>عملیات</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach(var item in Model.Orders)
+            {
+                @if(item.OrderDetails.Count > 0)
+                {
+                    <tr>
+                        <td>@item.CreateDate.ToShamsi()</td>
+                        <td>@(item.IsFinaly ? "پرداخت شده" : "در انتظار پرداخت")</td>
+                        <td>@((item.OrderDetails.Sum(s=>s.Count * s.Price) + 49000).ToString("N0")) تومان</td>
+                        <td>
+                            <div class="d-flex flex-column flex-md-row justify-content-center">
+                                <a asp-controller="Account" asp-action="OrderDetails" asp-route-id="@item.Id" class="btn btn-sm btn-info mb-1 mb-md-0">جزئیات</a>
+                                <a class="btn btn-sm btn-danger mx-md-2 mx-0" asp-controller="Account" asp-action="RemoveItemFromPaymentHistory" asp-route-id="@item.Id">حذف</a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>

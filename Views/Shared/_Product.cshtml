@@ -1,0 +1,38 @@
+@model Product
+
+<div class="col-lg-4 col-md-6 mb-4">
+
+    <div class="card border h-100">
+
+        <a asp-controller="Home" asp-action="ProductDetails" asp-route-id="@Model.Id">
+            <img src="/images/@(Model.Id).webp"
+                class="card-img-top p-3"
+                alt="product"
+                style="height:180px; object-fit:contain;">
+        </a>
+
+        <div class="card-body text-center d-flex flex-column">
+
+            <h5 class="card-title">@Model.Name</h5>
+
+            <p class="text-success fw-bold mb-3">
+                @Model.Items.FirstOrDefault()?.Price.ToString("N0") تومان
+            </p>
+
+            @if (@Model.Items.FirstOrDefault()?.QuantityInStock > 0)
+            {
+                <a class="btn btn-success w-100 mt-auto" asp-controller="Cart" asp-action="AddToCart" asp-route-id="@Model.Id">
+                    افزودن به سبد خرید
+                </a>
+            }
+            else
+            {
+                <a class="btn btn-danger w-100 mt-auto text-white">
+                    موجود نیست
+                </a>
+            }
+
+        </div>
+
+    </div>
+</div>

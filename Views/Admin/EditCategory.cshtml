@@ -1,0 +1,50 @@
+@model AddEditCategoryViewModel
+
+@{
+    Layout = "_AdminLayout";
+    ViewData["Title"] = "ویرایش دسته‌بندی";
+}
+
+<div class="py-5" dir="rtl">
+    <div class="row justify-content-center">
+        <div class="col-xl-6 col-lg-10">
+
+            <div class="card border">
+                <div class="card-header bg-dark text-center">
+                    <h5 class="pt-2 fw-bold" style="font-weight: 800;">ویرایش دسته‌بندی</h5>
+                </div>
+
+                <div class="card-body">
+
+                    <form asp-action="EditCategory" asp-controller="Admin" method="post">
+                        
+                        <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                        <input asp-for="Id" class="form-control" hidden/>
+
+                        <div class="mb-3">
+                            <label asp-for="Name" class="form-label"></label>
+                            <input asp-for="Name" class="form-control" />
+                            <span asp-validation-for="Name" class="text-danger small"></span>
+                        </div>
+
+                        <div class="mb-4">
+                            <label asp-for="Description" class="form-label"></label>
+                            <textarea asp-for="Description" class="form-control" style="max-height: 100px; min-height: 50px;"></textarea>
+                            <span asp-validation-for="Description" class="text-danger small"></span>
+                        </div>
+
+                        <button type="submit" class="btn btn-dark w-100">ویرایش</button>
+
+                    </form>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

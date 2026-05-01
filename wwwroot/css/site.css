@@ -1,0 +1,63 @@
+@font-face {
+  font-family: "Dana";
+  src: url("/fonts/dana/DanaVF.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "IRANSansXV";
+  src: url("/fonts/iransans/IRANSansXV.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "IRANYekan";
+  src: url("/fonts/iranyekan/IRANYekanX-Regular.woff2") format("woff2");
+}
+
+* {
+  font-family: IRANSansXV;
+  font-variation-settings: "DOTS" 4;
+  font-feature-settings: "ss02";
+  outline: none;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgb(150, 150, 150) transparent;
+}
+
+html {
+  font-size: 14px;
+}
+
+button:focus,
+input:focus,
+a:focus,
+textarea:focus,
+select:focus {
+    box-shadow: none !important;
+    outline: none !important;
+}
+
+.checkbox-wrapper input[type="checkbox"] {
+    width: 22px;
+    height: 22px;
+    border: 1px solid #CED4DA;
+    border-radius: 3px;
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}

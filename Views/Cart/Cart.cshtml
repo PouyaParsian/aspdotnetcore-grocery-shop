@@ -1,0 +1,93 @@
+@model Order
+@{
+    ViewData["Title"] = "سبد خرید";
+}
+
+@if (Model != null && Model.OrderDetails.Count > 0)
+{
+    <div class="container d-block d-lg-flex g-md-3 mt-5">
+
+        <div class="col-lg-8">
+            @foreach (var item in Model.OrderDetails)
+            {
+                <div class="row border rounded p-3 mb-3 align-items-center">
+
+                    <div class="col-md-6 d-flex align-items-center gap-3">
+
+                        <a asp-controller="Home" asp-action="Detail" asp-route-id="@item.Product.Id">
+                            <img src="/images/@(item.Product.Id).webp"
+                                alt="product"
+                                style="height:90px; width:90px; object-fit:contain;"
+                                class="p-2">
+                        </a>
+
+                        <div class="m-2">
+                            <h5 class="mb-2">@item.Product.Name</h5>
+                            <span class="text-success fw-bold">@((item.Count * item.Price).ToString("N0")) تومان</span>
+                        </div>
+
+                    </div>
+
+
+                    <div class="col-md-6 d-flex justify-content-end align-items-center gap-3">
+
+                        <div class="d-flex align-items-center gap-2 px-3 py-2">
+                            <a asp-controller="Cart"
+                            asp-action="AddToCart"
+                            asp-route-id="@item.Product.Id"
+                            class="btn btn-success">+</a>
+
+                            <p class="small p-2 mb-0 fw-bold">@item.Count عدد</p>
+
+                            <a asp-controller="Cart"
+                            asp-action="DecreaseItemFromCart"
+                            asp-route-id="@item.Id"
+                            class="btn btn-success">--</a>
+                        </div>
+
+                        <a asp-controller="Cart"
+                        asp-action="RemoveItemFromCart"
+                        asp-route-id="@item.Id"
+                        class="btn btn-danger">
+                            حذف
+                        </a>
+
+                    </div>
+
+                </div>
+            }
+        </div>
+
+        <div class="col-lg-4 pl-lg-5 mt-4 mt-lg-0">
+        
+            <ul class="list-group" style="padding-left: 1px;">
+
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        هزینه ارسال:
+                        <span class="fw-bold">49,000 تومان</span>
+                    </li>
+
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        جمع کل:
+                        <span class="fw-bold">@((Model.OrderDetails.Sum(s=>s.Count * s.Price) + 49000).ToString("N0")) تومان</span>
+                    </li>
+
+            </ul>
+
+            <a asp-controller="Cart" asp-action="Payment" class="btn btn-success w-100 mt-3">پرداخت نهایی</a>
+
+        </div>
+
+    </div>
+}
+else
+{
+    <div class="d-flex flex-column justify-content-center align-items-center" style="height: 70vh;">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="200" height="200">
+            <path d="M21 48A5 5 0 1021 58 5 5 0 1021 48zM47 48A5 5 0 1047 58 5 5 0 1047 48zM12.489 14.095l-.998-4.24C10.96 7.596 8.945 6 6.625 6H1l1 4h4.625c.464 0 .867.319.973.771l7.093 30.146C15.117 42.731 16.718 44 18.584 44h31.734c1.95 0 3.607-1.395 3.94-3.314l4.093-23.533L12.489 14.095zM43 36.772L40.772 39 34 33.713 27.228 39 25 36.772 30.287 30 25 23.228 27.228 21 34 26.287 40.772 21 43 23.228 37.713 30 43 36.772z" fill="#28A745"/>
+        </svg>
+        <h5 class="mt-5 text-center" style="font-weight: 600;">سبد خرید شما خالی است!</h5>
+        <p class="mt-1 text-center">از طریق لینک زیر می‌توانید محصولات مورد نیاز را اضافه و خرید خود را نهایی کنید.</p>
+        <a asp-controller="Home" asp-action="Index" class="btn btn-success mt-3">مشاهده محصولات</a>
+    </div>
+}

@@ -1,0 +1,44 @@
+@model IEnumerable<Product>
+
+@{
+    Layout = "_AdminLayout";
+    ViewData["Title"] = "محصولات";
+}
+
+<div class="table-responsive pb-5" style="white-space: nowrap;">
+    <a asp-control="AdminController" asp-action="AddProduct" class="btn btn-dark mb-3" style="float: right;">افزودن محصول</a>
+    <table class="table table-bordered table-sm text-center">
+        <thead class="thead-dark">
+            <tr>
+                <th>نام محصول</th>
+                <th>قیمت</th>
+                <th>توضیحات</th>
+                <th>دسته‌بندی</th>
+                <th>عملیات</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach(var item in Model)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.Items.FirstOrDefault()?.Price.ToString("N0") تومان</td>
+                    <td>@item.Description</td>
+                    <td>
+                    @foreach (var category in item.Categories)
+                        {
+                            <span>
+                                @category.Name
+                            </span>
+                        }
+                    </td>
+                    <td>
+                        <a asp-control="Admin" asp-action="EditProduct" asp-route-id="@item.Id" class="btn btn-sm btn-dark">ویرایش</a>
+                        <a asp-control="Admin" asp-action="DeleteProduct" asp-route-id="@item.Id" class="btn btn-sm btn-danger">حذف</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,9 @@
+# Build/IDE
+.vs/
+bin/
+obj/
+
+# Local settings & secrets
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.local.json
