@@ -1,48 +1,47 @@
-# MyEshop
+# Grocery Shop
 
-A modern ASP.NET Core MVC e-commerce application developed as a learning project to practice real-world e-commerce concepts and backend development.
+A modern ASP.NET Core MVC grocery store application developed as a learning project to simulate a real-world online supermarket experience.
 
 ## Features
 
 ### Customer Features
 
 * User registration and login
-* Secure authentication with cookies
-* User account management
-* Browse products
-* View product details
-* Add products to shopping cart
-* Manage shopping cart items
-* Product categorization and filtering
+* Account management
+* Browse grocery products
+* Product details page
+* Shopping cart functionality
+* Category-based product browsing
+* Secure authentication
 
 ### Admin Panel
 
-* User management
+#### User Management
 
-  * View users
-  * Edit user information
-  * Manage user roles and permissions
+* View users
+* Edit user information
+* Manage user roles and permissions
 
-* Product management
+#### Product Management
 
-  * Create products
-  * Edit products
-  * Delete products
-  * Manage product information
+* Add products
+* Edit products
+* Delete products
+* Manage product inventory and information
 
-* Category management
+#### Category Management
 
-  * Create categories
-  * Edit categories
-  * Delete categories
-  * Organize products into categories
+* Add categories
+* Edit categories
+* Delete categories
+* Organize products by category
 
-### Security
+### Security & Access Control
 
-* Authentication system
-* Authorization and access control
-* Admin-only routes and pages
-* Role-based permissions
+* Cookie-based authentication
+* Role-based authorization
+* Protected admin area
+* Access control for administrative operations
 
 ## Technologies
 
@@ -55,25 +54,28 @@ A modern ASP.NET Core MVC e-commerce application developed as a learning project
 * CSS
 * JavaScript
 
-## Learning Objectives
+## Purpose
 
-This project was built to practice:
+This project was created to practice:
 
-* ASP.NET Core MVC architecture
-* Entity Framework Core and database migrations
-* Authentication and authorization
-* CRUD operations
-* Database relationships
-* E-commerce application design
-* Admin panel development
-* Role-based access control
+* ASP.NET Core MVC
+* Entity Framework Core
+* Authentication & Authorization
+* CRUD Operations
+* Database Relationships
+* Admin Panel Development
+* Online Store Architecture
 
-## Setup
+## Run Locally
 
 ```bash
-git clone <repository-url>
-cd MyEshop
+git clone https://github.com/PouyaParsian/aspdotnetcore-grocery-shop.git
+
+cd aspdotnetcore-grocery-shop
+
 dotnet restore
+
 dotnet ef database update
+
 dotnet run
 ```
