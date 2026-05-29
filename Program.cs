@@ -4,17 +4,16 @@ using Microsoft.AspNetCore.Authentication.Cookies;
 
 var builder = WebApplication.CreateBuilder(args);
 
-var connectionString = "YOUR_CONNECTION_STRING";
-
 builder.Services.AddDbContext<MyEShopDbContext>(options =>
-    options.UseSqlServer(connectionString));
+    options.UseSqlite(
+        builder.Configuration.GetConnectionString("DefaultConnection")));
 
-builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
-    .AddCookie(option =>
+builder.Services
+    .AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+    .AddCookie(options =>
     {
-        option.LoginPath = "/Account/Login";
-        option.LogoutPath = "/Account/Logout";
-        option.ExpireTimeSpan = TimeSpan.FromDays(3);
+        options.LoginPath = "/Account/Login";
+        options.AccessDeniedPath = "/Account/Login";
     });
 
 builder.Services.AddControllersWithViews();

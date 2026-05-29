@@ -1,0 +1,1313 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\fonts\\dana\\DanaVF.woff",
+      "PackagePath": "staticwebassets\\fonts\\dana\\DanaVF.woff"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\fonts\\dana\\DanaVF.woff2",
+      "PackagePath": "staticwebassets\\fonts\\dana\\DanaVF.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\fonts\\iransans\\IRANSansXV.woff2",
+      "PackagePath": "staticwebassets\\fonts\\iransans\\IRANSansXV.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\fonts\\iranyekan\\IRANYekanX-Bold.woff2",
+      "PackagePath": "staticwebassets\\fonts\\iranyekan\\IRANYekanX-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\fonts\\iranyekan\\IRANYekanX-Regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\iranyekan\\IRANYekanX-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\images\\1.webp",
+      "PackagePath": "staticwebassets\\images\\1.webp"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\images\\10.webp",
+      "PackagePath": "staticwebassets\\images\\10.webp"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\images\\1001.webp",
+      "PackagePath": "staticwebassets\\images\\1001.webp"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\images\\1002.webp",
+      "PackagePath": "staticwebassets\\images\\1002.webp"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\images\\1003.webp",
+      "PackagePath": "staticwebassets\\images\\1003.webp"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\images\\1004.webp",
+      "PackagePath": "staticwebassets\\images\\1004.webp"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\images\\1005.webp",
+      "PackagePath": "staticwebassets\\images\\1005.webp"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\images\\1006.webp",
+      "PackagePath": "staticwebassets\\images\\1006.webp"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\images\\11.webp",
+      "PackagePath": "staticwebassets\\images\\11.webp"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\images\\12.webp",
+      "PackagePath": "staticwebassets\\images\\12.webp"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\images\\2.webp",
+      "PackagePath": "staticwebassets\\images\\2.webp"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\images\\3.webp",
+      "PackagePath": "staticwebassets\\images\\3.webp"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\images\\4.webp",
+      "PackagePath": "staticwebassets\\images\\4.webp"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\images\\5.webp",
+      "PackagePath": "staticwebassets\\images\\5.webp"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\images\\6.webp",
+      "PackagePath": "staticwebassets\\images\\6.webp"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\images\\7.webp",
+      "PackagePath": "staticwebassets\\images\\7.webp"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\images\\8.webp",
+      "PackagePath": "staticwebassets\\images\\8.webp"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\images\\9.webp",
+      "PackagePath": "staticwebassets\\images\\9.webp"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\.babelrc.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\.babelrc.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\.editorconfig",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\.editorconfig"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\.eslintignore",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\.eslintignore"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\.eslintrc.json"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\.gitattributes",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\.gitattributes"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\.gitignore",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\.stylelintignore",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\.stylelintignore"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\.stylelintrc",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\.stylelintrc"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\CONTRIBUTING.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\CONTRIBUTING.md"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\README.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\build\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\build\\.eslintrc.json"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\build\\banner.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\build\\banner.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\build\\build-plugins.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\build\\build-plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\build\\change-version.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\build\\change-version.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\build\\generate-sri.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\build\\generate-sri.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\build\\postcss.config.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\build\\postcss.config.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\build\\rollup.config.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\build\\rollup.config.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\build\\ship.sh",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\build\\ship.sh"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\build\\svgo.yml",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\build\\svgo.yml"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\build\\vnu-jar.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\build\\vnu-jar.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\demo\\custom.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\demo\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\demo\\custom.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\demo\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\demo\\custom.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\demo\\custom.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\dist\\css\\bootstrap-rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\dist\\css\\bootstrap-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\dist\\css\\bootstrap-rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\dist\\css\\bootstrap-rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\dist\\css\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\dist\\css\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\dist\\css\\bootstrap-rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\dist\\css\\bootstrap-rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\favicon.ico",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\index-fa.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\index-fa.html"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\.eslintrc.json"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\alert.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\alert.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\alert.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\alert.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\button.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\button.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\button.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\button.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\carousel.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\carousel.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\carousel.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\collapse.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\collapse.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\collapse.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\dropdown.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\dropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\dropdown.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\dropdown.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\modal.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\modal.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\modal.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\modal.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\popover.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\popover.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\popover.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\popover.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\scrollspy.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\scrollspy.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\scrollspy.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\scrollspy.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\tab.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\tab.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\tab.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\tab.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\toast.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\toast.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\toast.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\toast.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\tooltip.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\tooltip.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\tooltip.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\util.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\util.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\util.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\coverage\\dist\\util.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\dist\\alert.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\dist\\alert.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\dist\\alert.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\dist\\alert.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\dist\\button.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\dist\\button.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\dist\\button.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\dist\\button.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\dist\\carousel.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\dist\\carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\dist\\carousel.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\dist\\carousel.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\dist\\collapse.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\dist\\collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\dist\\collapse.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\dist\\collapse.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\dist\\dropdown.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\dist\\dropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\dist\\dropdown.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\dist\\dropdown.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\dist\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\dist\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\dist\\index.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\dist\\index.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\dist\\modal.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\dist\\modal.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\dist\\modal.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\dist\\modal.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\dist\\popover.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\dist\\popover.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\dist\\popover.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\dist\\popover.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\dist\\scrollspy.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\dist\\scrollspy.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\dist\\scrollspy.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\dist\\scrollspy.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\dist\\tab.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\dist\\tab.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\dist\\tab.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\dist\\tab.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\dist\\toast.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\dist\\toast.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\dist\\toast.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\dist\\toast.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\dist\\tooltip.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\dist\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\dist\\tooltip.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\dist\\tooltip.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\dist\\util.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\dist\\util.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\dist\\util.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\dist\\util.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\src\\alert.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\src\\alert.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\src\\button.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\src\\button.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\src\\carousel.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\src\\carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\src\\collapse.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\src\\collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\src\\dropdown.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\src\\dropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\src\\index.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\src\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\src\\modal.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\src\\modal.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\src\\popover.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\src\\popover.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\src\\scrollspy.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\src\\scrollspy.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\src\\tab.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\src\\tab.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\src\\toast.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\src\\toast.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\src\\tools\\sanitizer.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\src\\tools\\sanitizer.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\src\\tooltip.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\src\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\src\\util.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\src\\util.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\tests\\README.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\tests\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\tests\\browsers.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\tests\\browsers.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\tests\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\tests\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\tests\\integration\\bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\tests\\integration\\bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\tests\\integration\\index.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\tests\\integration\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\tests\\integration\\rollup.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\tests\\integration\\rollup.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\tests\\karma.conf.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\tests\\karma.conf.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\tests\\unit\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\tests\\unit\\.eslintrc.json"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\tests\\unit\\alert.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\tests\\unit\\alert.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\tests\\unit\\button.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\tests\\unit\\button.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\tests\\unit\\carousel.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\tests\\unit\\carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\tests\\unit\\collapse.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\tests\\unit\\collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\tests\\unit\\dropdown.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\tests\\unit\\dropdown.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\tests\\unit\\modal.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\tests\\unit\\modal.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\tests\\unit\\popover.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\tests\\unit\\popover.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\tests\\unit\\scrollspy.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\tests\\unit\\scrollspy.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\tests\\unit\\tab.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\tests\\unit\\tab.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\tests\\unit\\toast.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\tests\\unit\\toast.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\tests\\unit\\tooltip.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\tests\\unit\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\tests\\unit\\util.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\tests\\unit\\util.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\tests\\visual\\alert.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\tests\\visual\\alert.html"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\tests\\visual\\button.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\tests\\visual\\button.html"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\tests\\visual\\carousel.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\tests\\visual\\carousel.html"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\tests\\visual\\collapse.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\tests\\visual\\collapse.html"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\tests\\visual\\dropdown.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\tests\\visual\\dropdown.html"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\tests\\visual\\modal.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\tests\\visual\\modal.html"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\tests\\visual\\popover.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\tests\\visual\\popover.html"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\tests\\visual\\scrollspy.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\tests\\visual\\scrollspy.html"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\tests\\visual\\tab.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\tests\\visual\\tab.html"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\tests\\visual\\toast.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\tests\\visual\\toast.html"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\js\\tests\\visual\\tooltip.html",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\js\\tests\\visual\\tooltip.html"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\package-lock.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\package.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\package.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\package.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_rtl.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_rtl.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\bootstrap-rtl.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\bootstrap-rtl.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap-v4-rtl-master\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-v4-rtl-master\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Pouya\\Desktop\\Asp.Net Core\\MyEshop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\linux-x64\\staticwebassets\\msbuild.MyEshop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\linux-x64\\staticwebassets\\msbuild.build.MyEshop.props",
+      "PackagePath": "build\\MyEshop.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\linux-x64\\staticwebassets\\msbuild.buildMultiTargeting.MyEshop.props",
+      "PackagePath": "buildMultiTargeting\\MyEshop.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\linux-x64\\staticwebassets\\msbuild.buildTransitive.MyEshop.props",
+      "PackagePath": "buildTransitive\\MyEshop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

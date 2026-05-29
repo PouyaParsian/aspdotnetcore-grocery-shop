@@ -75,6 +75,13 @@ public class MyEShopDbContext : DbContext
         );
         #endregion
 
+        #region Item Seed
+        modelBuilder.Entity<User>().HasData(
+
+            new User { Id = 1, Email = "admin@gmail.com", Password = "admin", RegisterDate = DateTime.Now, IsAdmin = true}
+        );
+        #endregion
+
         base.OnModelCreating(modelBuilder);
     }
 }
