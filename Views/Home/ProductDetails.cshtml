@@ -1,0 +1,71 @@
+@model DetailsViewModel
+@{
+    ViewData["Title"] = "محصولات";
+}
+
+<div class="container">
+    <div class="row py-5 d-flex justify-content-center align-items-center" style="height: 80vh;">
+
+        <div class="col-lg-7 text-center p-5 p-lg-0">
+            <img src="/images/@(Model.Product.Id).webp"
+                alt="product" class="mb-5 mb-lg-0" style="max-width: 360px; max-height: 360px; width: 70vw;">
+        </div>
+
+        <div class="col-lg-5 pb-5 pb-lg-0">
+        
+            <ul class="list-group pl-1">
+
+                <li class="list-group-item d-xl-flex justify-content-between align-items-center">
+                    دسته‌بندی:
+                    <br/>
+                    @foreach (var category in Model.Categories)
+                    {
+                        <span>
+                            @category.Name
+                        </span>
+                    }
+                </li>
+
+                <li class="list-group-item d-xl-flex justify-content-between align-items-center">
+                    عنوان:
+                    <br/>
+                    <span>@Model.Product.Name</span>
+                </li>
+
+                <li class="list-group-item d-xl-flex justify-content-between align-items-center">
+                    توضیحات:
+                    <br/>
+                    <span class="mt">@Model.Product.Description</span>
+                </li>
+
+                <li class="list-group-item d-xl-flex justify-content-between align-items-center">
+                    موجودی:
+                    <br/>
+                    <span class="mt">@Model.Product.Items.FirstOrDefault()?.QuantityInStock عدد</span>
+                </li>
+
+                <li class="list-group-item d-xl-flex justify-content-between align-items-center">
+                    قیمت:
+                    <br/>
+                    <span>@Model.Product.Items.FirstOrDefault()?.Price.ToString("N0") تومان</span>
+                </li>
+
+            </ul>
+
+            
+
+            @if (Model.Product.Items.FirstOrDefault()?.QuantityInStock > 0)
+            {
+                <a class="btn btn-success w-100 mt-2" asp-controller="Cart" asp-action="AddToCart" asp-route-id="@Model.Product.Id">افزودن به سبد خرید</a>
+            }
+            else
+            {
+                <a class="btn btn-danger w-100 text-white mt-2">
+                    موجود نیست
+                </a>
+            }
+
+        </div>
+
+    </div>
+</div>

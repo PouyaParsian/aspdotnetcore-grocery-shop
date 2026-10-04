@@ -1,0 +1,44 @@
+@model Product
+
+@{
+    var stock = Model.Items.FirstOrDefault()?.QuantityInStock ?? 0;
+    var price = Model.Items.FirstOrDefault()?.Price;
+}
+
+<div class="col-lg-4 col-md-6 mb-4">
+    <div class="product-card">
+        <a class="product-card-media" asp-controller="Home" asp-action="ProductDetails" asp-route-id="@Model.Id">
+            <img src="/images/@(Model.Id).webp" alt="@Model.Name" loading="lazy">
+            @if (stock <= 0)
+            {
+                <span class="product-badge product-badge-out">ناموجود</span>
+            }
+        </a>
+
+        <div class="product-card-body">
+            <h5 class="product-card-title">
+                <a asp-controller="Home" asp-action="ProductDetails" asp-route-id="@Model.Id">@Model.Name</a>
+            </h5>
+
+            <div class="product-card-footer">
+                <span class="product-price">@(price?.ToString("N0")) <small>تومان</small></span>
+
+                @if (stock > 0)
+                {
+                    <a class="btn-add-cart" asp-controller="Cart" asp-action="AddToCart" asp-route-id="@Model.Id" aria-label="افزودن به سبد خرید">
+                        <svg viewBox="0 0 24 24">
+                            <path d="M3 4h2l2.4 12.4a2 2 0 0 0 2 1.6h8.2a2 2 0 0 0 2-1.6L21 8H6" />
+                            <circle cx="9" cy="20" r="1.4" />
+                            <circle cx="17" cy="20" r="1.4" />
+                            <path d="M14 10v4M12 12h4" />
+                        </svg>
+                    </a>
+                }
+                else
+                {
+                    <span class="btn-add-cart btn-add-cart-disabled">ناموجود</span>
+                }
+            </div>
+        </div>
+    </div>
+</div>
